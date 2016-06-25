@@ -1,0 +1,6 @@
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\bin\Debug\Assignment_07.exe.config
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\bin\Debug\Assignment_07.exe
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\bin\Debug\Assignment_07.pdb
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\obj\Debug\Assignment_07.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\obj\Debug\Assignment_07.exe
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07\obj\Debug\Assignment_07.pdb

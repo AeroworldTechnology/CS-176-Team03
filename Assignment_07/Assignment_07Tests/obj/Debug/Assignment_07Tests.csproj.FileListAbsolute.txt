@@ -1,0 +1,8 @@
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\bin\Debug\Assignment_07Tests.dll
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\bin\Debug\Assignment_07Tests.pdb
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\bin\Debug\Assignment_07.exe
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\bin\Debug\Assignment_07.pdb
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\obj\Debug\Assignment_07Tests.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\obj\Debug\Assignment_07Tests.dll
+C:\Users\Andy\Source\Repos\Lab3Csharp\Assignment_07\Assignment_07Tests\obj\Debug\Assignment_07Tests.pdb
